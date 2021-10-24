@@ -28,7 +28,7 @@ const generateEngineer = function (engineer) {
         <ul class="list-group list-group-flush card-body">
             <li class="list-group-item id">ID: ${engineer.id}</li>
             <li class="list-group-item email">Email: <a href="mailto:${engineer.email}">${engineer.email}</a></li>
-            <li class="list-group-item github">Github: <a href="https://github.com/${engineer.github}">${engineer.github}</a></li>
+            <li class="list-group-item github">Github: <a href="https://github.com/${engineer.github}" target="_blank">${engineer.github}</a></li>
         </ul>
     </div>
     `;
