@@ -20,7 +20,9 @@
 
   ## Usage
   Run `node index` at the command line and answer questions about your team.   
-  ![Screenshot of Application](screenshot.png)
+  ![Screenshot of Application](screenshot.png) 
+
+  See live demo of the app [here](https://watch.screencastify.com/v/sDoNi7JAKi8Q62eW0jhO).
 
   ## License
     
